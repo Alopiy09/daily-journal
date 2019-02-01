@@ -5,3 +5,12 @@ fieldset {
 #journalEntry {
     height: 40px;
 }
+
+body {
+    /* background-image: url(https://files.slack.com/files-pri/T03F2SDTJ-FFLDJ95CM/image_from_ios.jpg)   */
+    background-color:slategray;
+}
+
+fieldset {
+    background-color:royalblue;   
+}
