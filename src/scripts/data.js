@@ -11,4 +11,3 @@ const API = {
             .then(entries => {objectsJournalEntry(entries)})
     }
 }
-journalEntries.push(entries)
